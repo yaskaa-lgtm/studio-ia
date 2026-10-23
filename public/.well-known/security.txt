@@ -1,0 +1,7 @@
+# Signalement de vulnérabilité pour ce site statique.
+# Merci d’utiliser le suivi de sécurité du dépôt public (aucune adresse e-mail personnelle).
+Contact: {{REPO_URL}}/security/advisories/new
+Contact: {{REPO_URL}}/issues
+Expires: {{EXPIRES}}
+Preferred-Languages: fr, en
+Canonical: {{SITE_URL}}.well-known/security.txt
