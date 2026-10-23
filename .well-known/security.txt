@@ -1,0 +1,7 @@
+# Signalement de vulnérabilité pour ce site statique.
+# Merci d’utiliser le suivi de sécurité du dépôt public (aucune adresse e-mail personnelle).
+Contact: https://github.com/yaskaa-lgtm/studio-ia/security/advisories/new
+Contact: https://github.com/yaskaa-lgtm/studio-ia/issues
+Expires: 2027-09-18T16:24:34Z
+Preferred-Languages: fr, en
+Canonical: https://yaskaa-lgtm.github.io/studio-ia/.well-known/security.txt
