@@ -12,10 +12,10 @@ export const CONFIG = {
   email: 'contact@exemple.fr',
 
   /** Final public URL of the site, with trailing slash (GitHub Pages project site). PLACEHOLDER. */
-  siteUrl: 'https://votre-compte.github.io/studio-ia/',
+  siteUrl: 'https://yaskaa-lgtm.github.io/studio-ia/',
 
   /** Public repository URL — used as the contact in /.well-known/security.txt. PLACEHOLDER. */
-  repoUrl: 'https://github.com/votre-compte/studio-ia',
+  repoUrl: 'https://github.com/yaskaa-lgtm/studio-ia',
 
   /** Shown under the prices. Micro-entreprise en franchise : « TVA non applicable, art. 293 B du CGI ». */
   vatNote: 'Prix nets en euros. TVA : [à compléter selon votre statut, ex. « TVA non applicable, art. 293 B du CGI »].',
